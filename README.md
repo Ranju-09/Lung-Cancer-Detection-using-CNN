@@ -29,4 +29,4 @@ The CNN model follows this structure:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Lung-Cancer-Detection.git](https://github.com/YOUR_USERNAME/Lung-Cancer-Detection.git)
+   git clone [https://github.com/Ranju-09/Lung-Cancer-Detection.git](https://github.com/YOUR_USERNAME/Lung-Cancer-Detection.git)
