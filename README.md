@@ -25,6 +25,8 @@ The CNN model follows this structure:
 3. **Flatten Layer:** To convert 2D features into a 1D vector.
 4. **Dense Layers:** Fully connected layers for final classification.
 5. **Softmax Output:** Provides probabilities for the three classes.
+<img width="3999" height="1178" alt="image" src="https://github.com/user-attachments/assets/fb7b90b0-e307-49ab-837a-ab3cf343af30" />
+
 
 ## 🚀 How to Run
 1. Clone the repository:
